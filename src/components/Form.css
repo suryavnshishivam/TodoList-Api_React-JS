@@ -1,0 +1,77 @@
+.input{
+  margin-top: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.label{
+    font-size: larger;
+    margin: 10px;
+
+}
+.button{
+    font-size: large;
+    margin: 10px;
+
+}
+.form-control{
+    display: flex;
+    margin: 10px;
+}
+.input:focus{
+    color: rgb(7, 2, 2);
+}
+.button:hover{
+    background-color: yellow;
+}
+
+.invalid input{
+  border: 1px solid #b40e0e;
+  background-color: #fddddd;
+}
+.invalid p{
+color: red;
+}
+  .invalid input:focus{
+    border-color: #ff8800;
+    background-color: #fbe8d2;
+  }
+
+
+  .gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #7e40f6;
+    margin-top: 10px;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(
+      to right,
+      rgb(230, 203, 2),
+      rgba(80, 139, 252, 1)
+    );
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(
+      to right,
+      rgb(181, 235, 5),
+      rgb(236, 143, 3)
+    );
+  }
+  
+  .mask-custom {
+    background: rgba(24, 24, 16, 0.2);
+    border-radius: 20em;
+    backdrop-filter: blur(25px);
+    border: 23px solid rgba(255, 255, 255, 0.05);
+    background-clip: padding-box;
+    box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+  }
+
+  tr{
+    background-color: #b40e0e;
+  }
+  td{
+    background-color: #ff8800;
+  }
+  .form{
+    display: flex;
+  }
