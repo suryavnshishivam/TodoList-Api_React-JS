@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/suryavnshishivam/TodoList-Api_React-JS.git/static/css/main.5fcca920.css",
+    "main.js": "/suryavnshishivam/TodoList-Api_React-JS.git/static/js/main.a5b76d13.js",
+    "static/js/787.b6dff4bc.chunk.js": "/suryavnshishivam/TodoList-Api_React-JS.git/static/js/787.b6dff4bc.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/suryavnshishivam/TodoList-Api_React-JS.git/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/suryavnshishivam/TodoList-Api_React-JS.git/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/suryavnshishivam/TodoList-Api_React-JS.git/index.html",
+    "main.5fcca920.css.map": "/suryavnshishivam/TodoList-Api_React-JS.git/static/css/main.5fcca920.css.map",
+    "main.a5b76d13.js.map": "/suryavnshishivam/TodoList-Api_React-JS.git/static/js/main.a5b76d13.js.map",
+    "787.b6dff4bc.chunk.js.map": "/suryavnshishivam/TodoList-Api_React-JS.git/static/js/787.b6dff4bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcca920.css",
+    "static/js/main.a5b76d13.js"
+  ]
+}
